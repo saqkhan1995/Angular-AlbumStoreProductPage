@@ -1,0 +1,1 @@
+{"extension":{"messages":["Auto Attach: On","Auto Attach: Off","Automatically attach to node.js processes in debug mode","Process {0}"],"keys":["status.text.auto.attach.on","status.text.auto.attach.off","status.tooltip.auto.attach","process.with.pid.label"]}}
